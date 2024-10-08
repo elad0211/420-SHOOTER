@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Work And School/420-SHOOTER/FPSGameStarterKit2/Content/FPS_Game/Blueprints/Bonus/Replication/System/Replicated_Character.uasset",
+				"D:/Work And School/420-SHOOTER/FPSGameStarterKit2/Content/FPS_Game/Blueprints/BP_CharacterBase.uasset",
+				"D:/Work And School/420-SHOOTER/FPSGameStarterKit2/Content/420-Level.umap"
+			]
+		}
+	]
+}
