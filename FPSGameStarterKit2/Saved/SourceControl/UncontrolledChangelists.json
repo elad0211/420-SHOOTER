@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/420/420-Level.umap",
+				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/420/420_Level.umap",
+				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/420/Example_Level.umap",
 				"D:/Work And School/420-SHOOTER/FPSGameStarterKit2/Content/FPS_Game/Blueprints/Bonus/Replication/System/Replicated_Character.uasset",
 				"D:/Work And School/420-SHOOTER/FPSGameStarterKit2/Content/FPS_Game/Blueprints/BP_CharacterBase.uasset",
 				"D:/Work And School/420-SHOOTER/FPSGameStarterKit2/Content/420-Level.umap",
@@ -28,8 +31,6 @@
 				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/health-pack/textures/Healthpack_Textured_Occlusion.uasset",
 				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/health-pack/textures/Healthpack_Textured_Roughness.uasset",
 				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/health-pack/source/HealthPack/Healthpack_Textured.uasset",
-				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/420/420-Level.umap",
-				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/420/420_Level.umap",
 				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/420/Assests/EndGameTrigger_Blueprint.uasset",
 				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/420/Assests/AI/AI_Soldier.uasset",
 				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/420/Assests/AI/AI_Zombie.uasset",
